@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac src/Cube.java -d .
+java Cube
